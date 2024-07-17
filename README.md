@@ -2,8 +2,9 @@
 <div align="center">
 <h1>Hey, I'm Shulk 👋</h1>
 <p>A full stack development engineer <img style="vertical-align: top" alt="almost" src="https://img.shields.io/badge/-Almost-yellow?style=plastic"/></p>
+<br>
 
-[![][email-shield]][email-link]
+[![][email-shield]][email-link] [![][home-shield]][home-link]
 
 <h3>Languages</h3>
 
@@ -11,25 +12,27 @@
 
 <h3>Frames</h3>
 
-![][uni-app-shield] ![][electron-shield] ![][node-shield] ![][next-js-shield] ![][nuxt-js-shield] ![][laravel-shield] ![][think-php-shield] ![][codeigniter-shield]
+![][node-shield] ![][next-js-shield] ![][nuxt-js-shield] ![][nest-js-shield] ![][koa-shield] ![][express-shield] ![][uni-app-shield] ![][electron-shield] ![][laravel-shield] ![][think-php-shield] ![][codeigniter-shield] ![][socket-shield] ![][umi-js-shield] ![][react-router-shield] ![][redux-shield]
 
 <h3>Developments</h3>
 
-![][vite-shield] ![][webpack-shield] ![][babel-shield]
+![][vite-shield] ![][webpack-shield] ![][babel-shield] ![][postman-shield] ![][fast-api-shield] ![][docker-shield] ![][eslint-shield] ![][npm-shield] ![][prettier-shield]
 
 <h3>Extensions</h3>
 
-![][headless-shield] ![][tailwind-shield] ![][antd-shield] ![][element-ui-shield] ![][arco-shield] ![][bootstrap-shield] ![][echarts-shield] ![][wordpress-shield] ![][strapi-shield]
+![][headless-shield] ![][tailwind-shield] ![][antd-shield] ![][element-ui-shield] ![][arco-shield] ![][radix-ui-shield] ![][bootstrap-shield] ![][mui-shield] ![][echarts-shield] ![][wordpress-shield] ![][strapi-shield] ![][directus-shield]
 
 </div>
 
 [email-shield]: https://img.shields.io/badge/-Touch%20me-black?style=for-the-badge
 [email-link]: mailto:shulk.work@gmail.com
+[home-shield]: https://img.shields.io/badge/-Home%20Page-F2F4FB?style=for-the-badge
+[home-link]: https://shulk.space
 
 [js-shield]: https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 [ts-shield]: https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white
-[react-shield]: https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black
-[vue-shield]: https://img.shields.io/badge/-VUE-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white
+[react-shield]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
+[vue-shield]: https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white
 [php-shield]: https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white
 [py-shield]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
 [scss-shield]: https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white
@@ -44,10 +47,19 @@
 [echarts-shield]: https://img.shields.io/badge/-Echarts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white
 [wordpress-shield]: https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white
 [strapi-shield]: https://img.shields.io/badge/-Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white
+[mui-shield]: https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white
+[directus-shield]: https://img.shields.io/badge/-Directus-6644FF?style=flat-square&logo=directus&logoColor=white
+[radix-ui-shield]: https://img.shields.io/badge/-Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white
 
 [vite-shield]: https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white
 [webpack-shield]: https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black
 [babel-shield]: https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black
+[fast-api-shield]: https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
+[postman-shield]: https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
+[docker-shield]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+[eslint-shield]: https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint&logoColor=white
+[prettier-shield]: https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white
+[npm-shield]: https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white
 
 [uni-app-shield]: https://img.shields.io/badge/-Uni--app-2B9939?style=flat-square&logo=unpkg&logoColor=white
 [electron-shield]: https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white
@@ -57,5 +69,12 @@
 [laravel-shield]: https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white
 [think-php-shield]: https://img.shields.io/badge/-ThinkPHP-009F3E?style=flat-square&logo=thingiverse&logoColor=white
 [codeigniter-shield]: https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white
+[socket-shield]: https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white
+[umi-js-shield]: https://img.shields.io/badge/-Umi.js-1890FF?style=flat-square&logo=umami&logoColor=white
+[react-router-shield]: https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white
+[redux-shield]: https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white
+[koa-shield]: https://img.shields.io/badge/-Koa-33333D?style=flat-square&logo=koa&logoColor=white
+[express-shield]: https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white
+[nest-js-shield]: https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white
 
 
