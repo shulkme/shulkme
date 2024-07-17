@@ -58,7 +58,7 @@
 [postman-shield]: https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
 [docker-shield]: https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
 [eslint-shield]: https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=eslint&logoColor=white
-[prettier-shield]: https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white
+[prettier-shield]: https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black
 [npm-shield]: https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white
 
 [uni-app-shield]: https://img.shields.io/badge/-Uni--app-2B9939?style=flat-square&logo=unpkg&logoColor=white
