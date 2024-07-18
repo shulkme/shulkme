@@ -12,23 +12,19 @@
 ![php][php-shield] ![python][py-shield]  
 ![node][node-shield] ![react][react-shield] ![vue][vue-shield]  
 ![typescript][ts-shield] ![vite][vite-shield] ![webpack][webpack-shield] ![babel][babel-shield]   
-![linux][linux-shield] ![apache][apache-shield] ![nginx][nginx-shield] ![docker][docker-shield] ![headless][headless-shield] ![npm][npm-shield]  
-![uni-app][uni-app-shield] ![electron][electron-shield] ![less][less-shield] ![scss][scss-shield] ![socket.io][socket-shield]
-![mysql][mysql-shield] ![redis][redis-shield] ![fast-api][fast-api-shield]
 
 <hr>
 
-<div style="opacity: 0.5;">
-
-![next.js][next-js-shield] ![nuxt.js][nuxt-js-shield] ![nest.js][nest-js-shield] ![koa][koa-shield] ![express][express-shield] ![laravel][laravel-shield] ![thinkPHP][think-php-shield] ![codeigniter][codeigniter-shield]    
-![tailwind-css][tailwind-shield] ![figma][figma-shield] ![umi][umi-js-shield] ![react-router][react-router-shield] ![redux][redux-shield] ![postman][postman-shield]    
-![antd][antd-shield] ![element-ui][element-ui-shield] ![arco][arco-shield] ![radix-ui][radix-ui-shield]  
+![uni-app][uni-app-shield] ![electron][electron-shield] ![less][less-shield] ![scss][scss-shield] ![socket.io][socket-shield] ![mysql][mysql-shield] ![redis][redis-shield]
+![linux][linux-shield] ![apache][apache-shield] ![nginx][nginx-shield] ![docker][docker-shield]  
+![fast-api][fast-api-shield] ![next.js][next-js-shield] ![nuxt.js][nuxt-js-shield] ![nest.js][nest-js-shield] ![koa][koa-shield] ![express][express-shield] ![laravel][laravel-shield] ![thinkPHP][think-php-shield] ![codeigniter][codeigniter-shield]    
+![headless][headless-shield] ![tailwind-css][tailwind-shield] ![figma][figma-shield] ![umi][umi-js-shield] ![react-router][react-router-shield] ![redux][redux-shield] ![postman][postman-shield]    
+![antd][antd-shield] ![element-ui][element-ui-shield] ![arco][arco-shield] ![radix-ui][radix-ui-shield] ![mui][mui-shield]  
 ![echarts][echarts-shield] ![wordpress][wordpress-shield] ![strapi][strapi-shield] ![directus][directus-shield]  
-![prettier][prettier-shield] ![eslint][eslint-shield] ![bootstrap][bootstrap-shield] ![mui][mui-shield]  
-![pnpm][pnpm-shield] ![yarn][yarn-shield] ![pm2][pm2-shield]   
-![env][env-shield]
+![prettier][prettier-shield] ![eslint][eslint-shield] ![bootstrap][bootstrap-shield]    
+![npm][npm-shield] ![pnpm][pnpm-shield] ![yarn][yarn-shield]   
+![env][env-shield] ![pm2][pm2-shield]
 
-</div>
 
 </div>
 
