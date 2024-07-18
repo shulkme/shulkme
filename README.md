@@ -21,12 +21,12 @@
 ![echarts][echarts-shield] ![wordpress][wordpress-shield] ![strapi][strapi-shield] ![directus][directus-shield]  
 ![prettier][prettier-shield] ![eslint][eslint-shield] ![bootstrap][bootstrap-shield]    
 ![npm][npm-shield] ![pnpm][pnpm-shield] ![yarn][yarn-shield]   
-![env][env-shield] ![pm2][pm2-shield]
-
+![env][env-shield] ![pm2][pm2-shield]  
+![blank][blank-shield]
 
 </div>
 
-[blank-shield]: https://img.shields.io/badge/-%20-F2F4FB?style=flat-square
+[blank-shield]: https://img.shields.io/badge/-More-F2F4FB?style=flat-square&logo=internetcomputer&logoColor=black
 
 [email-shield]: https://img.shields.io/badge/-Touch%20me-black?style=for-the-badge
 [email-link]: mailto:shulk.work@gmail.com
