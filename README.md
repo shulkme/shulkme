@@ -11,9 +11,7 @@
 ![javascript][js-shield]  
 ![php][php-shield] ![python][py-shield]  
 ![node][node-shield] ![react][react-shield] ![vue][vue-shield]  
-![typescript][ts-shield] ![vite][vite-shield] ![webpack][webpack-shield] ![babel][babel-shield]   
-
-<hr>
+![typescript][ts-shield] ![vite][vite-shield] ![webpack][webpack-shield] ![babel][babel-shield]  
 
 ![uni-app][uni-app-shield] ![electron][electron-shield] ![less][less-shield] ![scss][scss-shield] ![socket.io][socket-shield] ![mysql][mysql-shield] ![redis][redis-shield]
 ![linux][linux-shield] ![apache][apache-shield] ![nginx][nginx-shield] ![docker][docker-shield]  
