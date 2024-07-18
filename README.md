@@ -11,7 +11,7 @@
 
 <br>
 
-![star][star-shield]  
+![water][water-shield]  
 ![javascript][js-shield]  
 ![php][php-shield] ![python][py-shield]  
 ![node][node-shield] ![react][react-shield] ![vue][vue-shield]  
@@ -29,7 +29,7 @@
 
 </div>
 
-[star-shield]: https://img.shields.io/badge/-🌟-FFFFFF?style=flat-square
+[water-shield]: https://img.shields.io/badge/-💧-F0FAFF?style=flat-square
 [more-shield]: https://img.shields.io/badge/-More-001D66?style=flat-square&logo=internetcomputer&logoColor=white
 
 [email-shield]: https://img.shields.io/badge/-Touch%20me-black?style=for-the-badge
