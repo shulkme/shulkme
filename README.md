@@ -8,11 +8,20 @@
 
 <br>
 
-![][js-shield] ![][ts-shield] ![][react-shield] ![][vue-shield] ![][php-shield] ![][py-shield] ![][less-shield] ![][scss-shield]
-![][node-shield] ![][next-js-shield] ![][nuxt-js-shield] ![][nest-js-shield] ![][koa-shield] ![][express-shield] ![][uni-app-shield] ![][electron-shield] ![][laravel-shield] ![][think-php-shield] ![][codeigniter-shield]
-![][socket-shield] ![][umi-js-shield] ![][react-router-shield] ![][redux-shield] 
-![][vite-shield] ![][webpack-shield] ![][babel-shield] ![][postman-shield] ![][fast-api-shield] ![][docker-shield] ![][eslint-shield] ![][npm-shield] ![][prettier-shield]
-![][headless-shield] ![][tailwind-shield] ![][antd-shield] ![][element-ui-shield] ![][arco-shield] ![][radix-ui-shield] ![][bootstrap-shield] ![][mui-shield] ![][echarts-shield] ![][wordpress-shield] ![][strapi-shield] ![][directus-shield]
+![javascript][js-shield] ![typescript][ts-shield] ![react][react-shield] ![vue][vue-shield] 
+![php][php-shield] ![python][py-shield] ![less][less-shield] ![scss][scss-shield] ![node][node-shield] 
+![next.js][next-js-shield] ![nuxt.js][nuxt-js-shield] ![nest.js][nest-js-shield] ![koa][koa-shield] 
+![express][express-shield] ![uni-app][uni-app-shield] ![electron][electron-shield] ![laravel][laravel-shield] 
+![thinkPHP][think-php-shield] ![codeigniter][codeigniter-shield] ![socket.io][socket-shield] 
+![umi][umi-js-shield] ![react-router][react-router-shield] ![redux][redux-shield] 
+![vite][vite-shield] ![webpack][webpack-shield] ![babel][babel-shield] ![postman][postman-shield] 
+![fast-api][fast-api-shield] ![docker][docker-shield] ![eslint][eslint-shield] ![npm][npm-shield] 
+![pnpm][pnpm-shield] ![yarn][yarn-shield] ![linux][linux-shield] ![apache][apache-shield] ![nginx][nginx-shield]
+![mysql][mysql-shield] ![redis][redis-shield] ![pm2][pm2-shield]
+![prettier][prettier-shield] ![headless][headless-shield] ![tailwind-css][tailwind-shield] ![figma][figma-shield] ![antd][antd-shield] 
+![element-ui][element-ui-shield] ![arco][arco-shield] ![radix-ui][radix-ui-shield] ![bootstrap][bootstrap-shield] 
+![mui][mui-shield] ![echarts][echarts-shield] ![wordpress][wordpress-shield] ![strapi][strapi-shield] 
+![directus][directus-shield] ![env][env-shield]
 
 </div>
 
@@ -70,5 +79,17 @@
 [koa-shield]: https://img.shields.io/badge/-Koa-33333D?style=flat-square&logo=koa&logoColor=white
 [express-shield]: https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white
 [nest-js-shield]: https://img.shields.io/badge/-Nest-E0234E?style=flat-square&logo=nestjs&logoColor=white
+
+
+[pm2-shield]: https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white
+[pnpm-shield]: https://img.shields.io/badge/-PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white
+[yarn-shield]: https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white
+[mysql-shield]: https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white
+[redis-shield]: https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white
+[env-shield]: https://img.shields.io/badge/-Env-ECD53F?style=flat-square&logo=dotenv&logoColor=black
+[linux-shield]: https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+[apache-shield]: https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white
+[nginx-shield]: https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white
+[figma-shield]: https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
 
 
