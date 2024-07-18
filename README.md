@@ -1,7 +1,10 @@
 <div align="center">
 
-<h1>Hey, I'm Shulk 👋</h1>
-<p>A full stack development engineer <img style="vertical-align: top" alt="almost" src="https://img.shields.io/badge/-Almost-yellow?style=flat"/></p>
+<h1>
+  <span>👋</span><br>
+  <span>Hey, I'm Shulk</span>
+</h1
+<p><b>A full stack development engineer</b> <img style="vertical-align: top" alt="almost" src="https://img.shields.io/badge/-Almost-gold?style=flat"/></p>
 <br>
 
 [![][email-shield]][email-link] [![][home-shield]][home-link]
