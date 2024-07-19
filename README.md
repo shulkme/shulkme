@@ -3,7 +3,7 @@
 <h1>
   <span>👋</span><br>
   <span>Hey, I'm Shulk</span>
-</h1
+</h1>
 <p><b>A full stack development engineer</b> <img style="vertical-align: top" alt="almost" src="https://img.shields.io/badge/-Almost-gold?style=flat"/></p>
 <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-![water][water-shield]  
+![ice][ice-shield]  
 ![javascript][js-shield]  
 ![php][php-shield] ![python][py-shield]  
 ![node][node-shield] ![react][react-shield] ![vue][vue-shield]  
@@ -29,7 +29,7 @@
 
 </div>
 
-[water-shield]: https://img.shields.io/badge/-💧-F0FAFF?style=flat-square
+[ice-shield]: https://img.shields.io/badge/-🧊-F0FAFF?style=flat-square
 [more-shield]: https://img.shields.io/badge/-More-001D66?style=flat-square&logo=internetcomputer&logoColor=white
 
 [email-shield]: https://img.shields.io/badge/-Touch%20me-black?style=for-the-badge
@@ -85,7 +85,6 @@
 [express-shield]: https://img.shields.io/badge/-Express-91CAFF?style=flat-square&logo=express&logoColor=black
 [nest-js-shield]: https://img.shields.io/badge/-Nest-91CAFF?style=flat-square&logo=nestjs&logoColor=black
 
-
 [pm2-shield]: https://img.shields.io/badge/-PM2-002C8C?style=flat-square&logo=pm2&logoColor=white
 [pnpm-shield]: https://img.shields.io/badge/-PNPM-003EB3?style=flat-square&logo=pnpm&logoColor=white
 [yarn-shield]: https://img.shields.io/badge/-Yarn-003EB3?style=flat-square&logo=yarn&logoColor=white
@@ -96,5 +95,3 @@
 [apache-shield]: https://img.shields.io/badge/-Apache-BAE0FF?style=flat-square&logo=apache&logoColor=black
 [nginx-shield]: https://img.shields.io/badge/-Nginx-BAE0FF?style=flat-square&logo=nginx&logoColor=black
 [figma-shield]: https://img.shields.io/badge/-Figma-69B1FF?style=flat-square&logo=figma&logoColor=white
-
-
